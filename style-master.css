@@ -504,8 +504,9 @@ html {
     margin-bottom: 5vw;
   }
   .img-whatsapp{
-    width: 8vw;
-    height: 8vw;
+   width: 100%;
+   height: 100%;
+   object-fit: contain; 
   }
   /*------------------------------FOMO------------------------------------*/
 
