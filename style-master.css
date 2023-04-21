@@ -120,7 +120,7 @@ html {
     color: red;
     text-decoration: none;
     font-size: 5vw;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Montserrat', sans-serif;;
     
   }
   /*-----------IMAGENES SIGUIENTES CON DESCRIPCIÓN---------------------*/
@@ -358,10 +358,10 @@ html {
   }
   .texto-p8{
     display: block;
-    width: 70%;
+    width: 80%;
     background-color: #252525;
     border-radius: 30px;
-    margin-left: 15%;
+    margin-left: 10%;
   }
   .h6-p8{
     line-height: 1.5;
