@@ -497,9 +497,9 @@ html {
   }
   .button-whatsapp{
     display: block;
-    margin-left: 46%;
-    width: 12vw;
-    height: 12vw;
+    margin-left: 40%;
+    width: 20vw;
+    height: 20vw;
     border-radius: 100%;
     margin-bottom: 5vw;
   }
