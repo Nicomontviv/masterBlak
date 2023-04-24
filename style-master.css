@@ -356,6 +356,16 @@ html {
       padding:0;
     
   }
+.p8blakensenWide{
+    display:none;
+    object-fit: contain;
+    image-rendering: optimizeQuality;
+    height: auto;
+    width: 100%;
+    max-width: 100%;
+      margin:0;
+      padding:0;
+  }
   .texto-p8{
     display: block;
     width: 80%;
@@ -624,6 +634,9 @@ html {
  .p9blakensen{
     display: none;
     
+  }
+    .p8blakensen{
+    display: none;
   }
   .p8blakensenWide, .p9blakensenWide{
     display: inline-block;
