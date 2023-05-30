@@ -1,5 +1,5 @@
-let visitantes = 172;
-const iterarFomo2 = setInterval(mostrarFomo2, 16000);
+let visitantes = 124;
+const iterarFomo2 = setInterval(mostrarFomo2, 30000);
 
 function mostrarFomo2(){
     
